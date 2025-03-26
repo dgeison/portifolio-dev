@@ -5,7 +5,6 @@ import { PrismaProvider } from "src/db/prisma.provider"
 @Injectable()
 export class TecnologiaPrisma {
 	constructor(private readonly prisma: PrismaProvider) {}
-
 	async obterTodas(): Promise<Tecnologia[]> {
 		return this.prisma.tecnologia.findMany()
 	}
