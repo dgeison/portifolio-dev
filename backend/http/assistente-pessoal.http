@@ -1,7 +1,7 @@
-POST https://suporteformacaodev.app.n8n.cloud/webhook/assistente-pessoal
+POST https://dgeisondev.app.n8n.cloud/webhook-test/4fa10fe8-b59c-4eac-a7cf-2718d75b8775
 Content-Type: application/json
 
 {
   "chatId": "12345678",
-  "mensagem": "Você trabalha com React Native?"
+  "mensagem": "Você trabalha com python?"
 }
