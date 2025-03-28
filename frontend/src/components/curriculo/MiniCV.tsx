@@ -14,15 +14,14 @@ export default function MiniCV() {
                             text-transparent bg-clip-text text-2xl font-bold
                         "
 					>
-						Leonardo Leitão
+						Dgeison Peixoto
 					</span>
-					<span>CTO da Cod3r Ensino e Consultoria</span>
+					<span>Engenheiro de Dados</span>
 				</div>
 				<p className="text-sm text-center md:text-left lg:text-center xl:text-left">
-					Mestre em Informática Aplicada e fundador da Cod3r, já treinou mais de 420.000
-					alunos. São mais de 16 anos como professor. Há 20 anos atua na área como
-					desenvolvedor de softwares e trabalhou como arquiteto de software em grandes
-					projetos para o Governo Federal.
+					Dgeison Serrão Peixoto é engenheiro de dados com ampla experiência em migração e desenvolvimento de softwares voltados para dados. Atua com Python e SQL, utilizando SparkSQL no AWS EMR Studio, para lidar com grandes volumes de dados de forma eficiente.
+					Possui expertise em modelagem de dados, otimização de consultas e criação de processos escaláveis. Além disso, trabalha com FastAPI e PostgreSQL, desenvolvendo soluções robustas para integração de dados.
+					Tem experiência com Scrum e Jira para gestão de projetos e utiliza Confluence para documentação técnica.
 				</p>
 			</div>
 		</div>
